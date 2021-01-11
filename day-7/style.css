@@ -1,0 +1,15 @@
+.parallax {
+  background-image: url(15-17-57-1777-remembering-heroes-silvia-baptista.jpg);
+
+  /* Full height */
+  height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.para {
+  font-size: 30px;
+}
